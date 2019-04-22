@@ -1,6 +1,8 @@
 # Triagen
 Strategy for triaging genomic variants
 
+For full details of the method and citation, please see [Steele et al. (2017)](https://www.sciencedirect.com/science/article/pii/S1535610819300972).
+
 Depends on: VEP (https://github.com/Ensembl/ensembl-vep)
 
 Attempt to automatically triage variants into those that we think are importnat, and those that we think are artefact/unimportant.
